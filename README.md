@@ -11,7 +11,7 @@
 ## Example
 Example code that produce the previews below can be found under their respective drop-down.
 
-<details open>
+<details>
 <summary>Actionscript</summary>
 
 ```as
@@ -54,7 +54,7 @@ for (i = 0; i < 5; i++)
 ```
 </details>
 
-<details open>
+<details>
 <summary>Lua (Fivem)</summary>
 
 ```lua
